@@ -14,6 +14,14 @@ Frontend: http://localhost:3001
 
 Backend: http://localhost:8084
 
+Login details (for currently existing User's) : 
+
+Username : SUTH25001     (MANAGER)
+Password : srikumar@123
+
+Username : SUTH25002     (EMPLOYEE)
+Password : mohan@123 
+
 Features :
 
 Employee login using empId
